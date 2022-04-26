@@ -2,9 +2,7 @@
 
 
 <!-- **ItisCyph3r/ItisCyph3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-Here are some ideas to get you started:
-
+<!-- Here are some ideas to get you started: -->
 - 🔭 I’m currently working on a Fullstack Calorie Tracker Web Application
 - 🌱 I’m currently learning Reactjs
 - 👯 I’m looking to collaborate on projects
