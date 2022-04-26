@@ -1,7 +1,7 @@
 ### Hi I'm Momoh Samuel 👋
 
 
-**ItisCyph3r/ItisCyph3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **ItisCyph3r/ItisCyph3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
